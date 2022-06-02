@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 1.2 The concrete.c 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 2.1 The first.c Program", "Listing 2.1 The first.c Program\Listing 2.1 The first.c Program.vcxproj", "{C6D0B543-C07C-4AAF-80C0-FC53D0D5559E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 2.2 The fathm_ft.c Program", "Listing 2.2 The fathm_ft.c Program\Listing 2.2 The fathm_ft.c Program.vcxproj", "{2E17B031-0A4A-487A-A244-CE7C7C9AB829}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{C6D0B543-C07C-4AAF-80C0-FC53D0D5559E}.Release|x64.Build.0 = Release|x64
 		{C6D0B543-C07C-4AAF-80C0-FC53D0D5559E}.Release|x86.ActiveCfg = Release|Win32
 		{C6D0B543-C07C-4AAF-80C0-FC53D0D5559E}.Release|x86.Build.0 = Release|Win32
+		{2E17B031-0A4A-487A-A244-CE7C7C9AB829}.Debug|x64.ActiveCfg = Debug|x64
+		{2E17B031-0A4A-487A-A244-CE7C7C9AB829}.Debug|x64.Build.0 = Debug|x64
+		{2E17B031-0A4A-487A-A244-CE7C7C9AB829}.Debug|x86.ActiveCfg = Debug|Win32
+		{2E17B031-0A4A-487A-A244-CE7C7C9AB829}.Debug|x86.Build.0 = Debug|Win32
+		{2E17B031-0A4A-487A-A244-CE7C7C9AB829}.Release|x64.ActiveCfg = Release|x64
+		{2E17B031-0A4A-487A-A244-CE7C7C9AB829}.Release|x64.Build.0 = Release|x64
+		{2E17B031-0A4A-487A-A244-CE7C7C9AB829}.Release|x86.ActiveCfg = Release|Win32
+		{2E17B031-0A4A-487A-A244-CE7C7C9AB829}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

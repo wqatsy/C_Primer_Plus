@@ -6,7 +6,6 @@
  * #define _CRT_SECURE_NO_WARNINGS // 忽略函数安全报错，需写在程序开头，作用同方法1
  * #pragma warning(disable:4996)   // 忽略 Error   C4996，作用同方法1
  * #pragma warning(disable:6031)   // 忽略 Warning C6031
-
  ******************************************************************************************/
 
 #define _CRT_SECURE_NO_WARNINGS
