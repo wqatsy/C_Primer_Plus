@@ -1,0 +1,4 @@
+﻿  fathm_ft.c
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 2.2 The fathm_ft.c Program\fathm_ft.c(37,10): warning C4013: 'getch' undefined; assuming extern returning int
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 2.2 The fathm_ft.c Program\fathm_ft.c(28,9): warning C4101: 'feet': unreferenced local variable
+  Listing 2.2 The fathm_ft.c Program.vcxproj -> D:\Code_2022\GitHub\C_Primer_Plus\Debug\Listing 2.2 The fathm_ft.c Program.exe
