@@ -1,0 +1,4 @@
+﻿  platinum.c
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 3.1 The platinum.c Program\platinum.c(16,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 3.1 The platinum.c Program\platinum.c(22,10): warning C4013: 'getch' undefined; assuming extern returning int
+  Listing 3.1 The platinum.c Program.vcxproj -> D:\Code_2022\GitHub\C_Primer_Plus\Debug\Listing 3.1 The platinum.c Program.exe
