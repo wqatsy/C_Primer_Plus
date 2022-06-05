@@ -1,0 +1,6 @@
+﻿  print1.c
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 3.2 The print1.c Program\print1.c(12,12): warning C4473: 'printf' : not enough arguments passed for format string
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 3.2 The print1.c Program\print1.c(12,12): message : placeholders and their parameters expect 3 variadic arguments, but 1 were provided
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 3.2 The print1.c Program\print1.c(12,12): message : the missing variadic argument 2 is required by format string '%d'
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 3.2 The print1.c Program\print1.c(15,10): warning C4013: 'getch' undefined; assuming extern returning int
+  Listing 3.2 The print1.c Program.vcxproj -> D:\Code_2022\GitHub\C_Primer_Plus\Debug\Listing 3.2 The print1.c Program.exe
