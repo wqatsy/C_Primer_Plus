@@ -1,0 +1,6 @@
+﻿  print2.c
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 3.4 The print2.c Program\print2.c(15,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type '__int64'
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 3.4 The print2.c Program\print2.c(15,12): message : consider using '%lld' in the format string
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 3.4 The print2.c Program\print2.c(15,12): message : consider using '%I64d' in the format string
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 3.4 The print2.c Program\print2.c(18,10): warning C4013: 'getch' undefined; assuming extern returning int
+  Listing 3.4 The print2.c Program.vcxproj -> D:\Code_2022\GitHub\C_Primer_Plus\Debug\Listing 3.4 The print2.c Program.exe

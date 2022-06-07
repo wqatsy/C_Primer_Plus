@@ -36,30 +36,37 @@ int main(void)
     {
         printf("Please enter the data you want to convert:\n");
         status = scanf("%d", &data);
+
         if (status)
         {
             printf("Dec = %d, Oct = %#o.\n", data, data);
         }
+
         else
         {
             printf("Please enter the correct data.\n");
         }
     }
+
     else if (type == 'h')
     {
         printf("Please enter the data you want to convert:\n");
         status = scanf("%d", &data);
+
         if (status)
         {
             printf("Dec = %d, Hex = %#x.\n", data, data);
         }
+
         else
             printf("Please enter the correct data.\n");
     }
+
     else
     {
         printf("Please enter the correct data type.\n");
     }
+
     printf("Press any key to exit.");
     getch();
     return 0;
