@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 3.3 The bases.c Pro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 3.4 The print2.c Program", "Listing 3.4 The print2.c Program\Listing 3.4 The print2.c Program.vcxproj", "{888161CD-72C9-468B-82A9-D381694ADFDB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 3.5 The charcode.c Program", "Listing 3.5 The charcode.c Program\Listing 3.5 The charcode.c Program.vcxproj", "{CCBB8133-08F5-4EDC-9AA6-11B2BFE4EC31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{888161CD-72C9-468B-82A9-D381694ADFDB}.Release|x64.Build.0 = Release|x64
 		{888161CD-72C9-468B-82A9-D381694ADFDB}.Release|x86.ActiveCfg = Release|Win32
 		{888161CD-72C9-468B-82A9-D381694ADFDB}.Release|x86.Build.0 = Release|Win32
+		{CCBB8133-08F5-4EDC-9AA6-11B2BFE4EC31}.Debug|x64.ActiveCfg = Debug|x64
+		{CCBB8133-08F5-4EDC-9AA6-11B2BFE4EC31}.Debug|x64.Build.0 = Debug|x64
+		{CCBB8133-08F5-4EDC-9AA6-11B2BFE4EC31}.Debug|x86.ActiveCfg = Debug|Win32
+		{CCBB8133-08F5-4EDC-9AA6-11B2BFE4EC31}.Debug|x86.Build.0 = Debug|Win32
+		{CCBB8133-08F5-4EDC-9AA6-11B2BFE4EC31}.Release|x64.ActiveCfg = Release|x64
+		{CCBB8133-08F5-4EDC-9AA6-11B2BFE4EC31}.Release|x64.Build.0 = Release|x64
+		{CCBB8133-08F5-4EDC-9AA6-11B2BFE4EC31}.Release|x86.ActiveCfg = Release|Win32
+		{CCBB8133-08F5-4EDC-9AA6-11B2BFE4EC31}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
