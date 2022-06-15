@@ -1,12 +1,12 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-//* typesize.c -- prints out type sizes */
+//* typesize.c——打印类型大小 */
 #include <stdio.h>
 
 int main(void)
 {
-    /* c99 provides a %zd specifier for sizes */
-    printf("Type int has a size of %zd bytes.\n", sizeof(int));
+    /* C99为类型大小提供%zd转换说明 */
+    printf("Type int has a size of %zd bytes.\n", sizeof(int)); // sizeof是运算符，以字节为单位给出指定类型的大小
     printf("Type char has a size of %zd bytes.\n", sizeof(char));
     printf("Type long has a size of %zd bytes.\n", sizeof(long));
     printf("Type long long has a size of %zd bytes.\n",
