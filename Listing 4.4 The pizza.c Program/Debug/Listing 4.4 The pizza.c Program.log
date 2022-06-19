@@ -1,0 +1,5 @@
+﻿  pizza.c
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 4.4 The pizza.c Program\pizza.c(15,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 4.4 The pizza.c Program\pizza.c(16,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 4.4 The pizza.c Program\pizza.c(21,10): warning C4013: 'getch' undefined; assuming extern returning int
+  Listing 4.4 The pizza.c Program.vcxproj -> D:\Code_2022\GitHub\C_Primer_Plus\Debug\Listing 4.4 The pizza.c Program.exe
