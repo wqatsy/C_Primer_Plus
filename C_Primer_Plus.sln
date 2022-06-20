@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 4.3 The praise2.c P
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 4.4 The pizza.c Program", "Listing 4.4 The pizza.c Program\Listing 4.4 The pizza.c Program.vcxproj", "{735C33F5-5A07-4AD9-9310-3DF98DB8B1F3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 4.5 The defines.c Program", "Listing 4.5 The defines.c Program\Listing 4.5 The defines.c Program.vcxproj", "{4EC5C42E-B2FD-4396-A67B-9E7CBC17E033}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{735C33F5-5A07-4AD9-9310-3DF98DB8B1F3}.Release|x64.Build.0 = Release|x64
 		{735C33F5-5A07-4AD9-9310-3DF98DB8B1F3}.Release|x86.ActiveCfg = Release|Win32
 		{735C33F5-5A07-4AD9-9310-3DF98DB8B1F3}.Release|x86.Build.0 = Release|Win32
+		{4EC5C42E-B2FD-4396-A67B-9E7CBC17E033}.Debug|x64.ActiveCfg = Debug|x64
+		{4EC5C42E-B2FD-4396-A67B-9E7CBC17E033}.Debug|x64.Build.0 = Debug|x64
+		{4EC5C42E-B2FD-4396-A67B-9E7CBC17E033}.Debug|x86.ActiveCfg = Debug|Win32
+		{4EC5C42E-B2FD-4396-A67B-9E7CBC17E033}.Debug|x86.Build.0 = Debug|Win32
+		{4EC5C42E-B2FD-4396-A67B-9E7CBC17E033}.Release|x64.ActiveCfg = Release|x64
+		{4EC5C42E-B2FD-4396-A67B-9E7CBC17E033}.Release|x64.Build.0 = Release|x64
+		{4EC5C42E-B2FD-4396-A67B-9E7CBC17E033}.Release|x86.ActiveCfg = Release|Win32
+		{4EC5C42E-B2FD-4396-A67B-9E7CBC17E033}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
