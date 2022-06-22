@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 4.5 The defines.c P
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 4.6 The printout.c Program", "Listing 4.6 The printout.c Program\Listing 4.6 The printout.c Program.vcxproj", "{7B8A18A4-9C85-4278-913E-1EDC3E147626}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 4.7 The width.c Program", "Listing 4.7 The width.c Program\Listing 4.7 The width.c Program.vcxproj", "{DCF85C53-A0AB-44FD-ACDF-78EC1BE3E185}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +233,14 @@ Global
 		{7B8A18A4-9C85-4278-913E-1EDC3E147626}.Release|x64.Build.0 = Release|x64
 		{7B8A18A4-9C85-4278-913E-1EDC3E147626}.Release|x86.ActiveCfg = Release|Win32
 		{7B8A18A4-9C85-4278-913E-1EDC3E147626}.Release|x86.Build.0 = Release|Win32
+		{DCF85C53-A0AB-44FD-ACDF-78EC1BE3E185}.Debug|x64.ActiveCfg = Debug|x64
+		{DCF85C53-A0AB-44FD-ACDF-78EC1BE3E185}.Debug|x64.Build.0 = Debug|x64
+		{DCF85C53-A0AB-44FD-ACDF-78EC1BE3E185}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCF85C53-A0AB-44FD-ACDF-78EC1BE3E185}.Debug|x86.Build.0 = Debug|Win32
+		{DCF85C53-A0AB-44FD-ACDF-78EC1BE3E185}.Release|x64.ActiveCfg = Release|x64
+		{DCF85C53-A0AB-44FD-ACDF-78EC1BE3E185}.Release|x64.Build.0 = Release|x64
+		{DCF85C53-A0AB-44FD-ACDF-78EC1BE3E185}.Release|x86.ActiveCfg = Release|Win32
+		{DCF85C53-A0AB-44FD-ACDF-78EC1BE3E185}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
