@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 4.7 The width.c Pro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 4.8 The floats.c Program", "Listing 4.8 The floats.c Program\Listing 4.8 The floats.c Program.vcxproj", "{38E6A4A7-F7CF-48FA-B390-2953163ABC12}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 4.9 The flags.c Program", "Listing 4.9 The flags.c Program\Listing 4.9 The flags.c Program.vcxproj", "{7C78BAE2-C4ED-4E84-91EF-290E7780A780}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{38E6A4A7-F7CF-48FA-B390-2953163ABC12}.Release|x64.Build.0 = Release|x64
 		{38E6A4A7-F7CF-48FA-B390-2953163ABC12}.Release|x86.ActiveCfg = Release|Win32
 		{38E6A4A7-F7CF-48FA-B390-2953163ABC12}.Release|x86.Build.0 = Release|Win32
+		{7C78BAE2-C4ED-4E84-91EF-290E7780A780}.Debug|x64.ActiveCfg = Debug|x64
+		{7C78BAE2-C4ED-4E84-91EF-290E7780A780}.Debug|x64.Build.0 = Debug|x64
+		{7C78BAE2-C4ED-4E84-91EF-290E7780A780}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C78BAE2-C4ED-4E84-91EF-290E7780A780}.Debug|x86.Build.0 = Debug|Win32
+		{7C78BAE2-C4ED-4E84-91EF-290E7780A780}.Release|x64.ActiveCfg = Release|x64
+		{7C78BAE2-C4ED-4E84-91EF-290E7780A780}.Release|x64.Build.0 = Release|x64
+		{7C78BAE2-C4ED-4E84-91EF-290E7780A780}.Release|x86.ActiveCfg = Release|Win32
+		{7C78BAE2-C4ED-4E84-91EF-290E7780A780}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
