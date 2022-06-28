@@ -1,0 +1,7 @@
+﻿  floatcnv.c
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 4.12 The floatcnv.c Program\floatcnv.c(13,12): warning C4477: 'printf' : format string '%.1e' requires an argument of type 'double', but variadic argument 3 has type 'long'
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 4.12 The floatcnv.c Program\floatcnv.c(13,12): warning C4477: 'printf' : format string '%.1e' requires an argument of type 'double', but variadic argument 4 has type 'long'
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 4.12 The floatcnv.c Program\floatcnv.c(15,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'double'
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 4.12 The floatcnv.c Program\floatcnv.c(15,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type 'double'
+D:\Code_2022\GitHub\C_Primer_Plus\Listing 4.12 The floatcnv.c Program\floatcnv.c(18,10): warning C4013: 'getch' undefined; assuming extern returning int
+  Listing 4.12 The floatcnv.c Program.vcxproj -> D:\Code_2022\GitHub\C_Primer_Plus\Debug\Listing 4.12 The floatcnv.c Program.exe
