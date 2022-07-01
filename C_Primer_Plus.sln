@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 4.13 The prntval.c 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 4.14 The longstrg.c Program", "Listing 4.14 The longstrg.c Program\Listing 4.14 The longstrg.c Program.vcxproj", "{9A0475B9-4631-4910-B8F7-28BADBC5CB0C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 4.15 The input.c Program", "Listing 4.15 The input.c Program\Listing 4.15 The input.c Program.vcxproj", "{7C7805FC-C736-443E-B85D-8650EF10A749}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -311,6 +313,14 @@ Global
 		{9A0475B9-4631-4910-B8F7-28BADBC5CB0C}.Release|x64.Build.0 = Release|x64
 		{9A0475B9-4631-4910-B8F7-28BADBC5CB0C}.Release|x86.ActiveCfg = Release|Win32
 		{9A0475B9-4631-4910-B8F7-28BADBC5CB0C}.Release|x86.Build.0 = Release|Win32
+		{7C7805FC-C736-443E-B85D-8650EF10A749}.Debug|x64.ActiveCfg = Debug|x64
+		{7C7805FC-C736-443E-B85D-8650EF10A749}.Debug|x64.Build.0 = Debug|x64
+		{7C7805FC-C736-443E-B85D-8650EF10A749}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C7805FC-C736-443E-B85D-8650EF10A749}.Debug|x86.Build.0 = Debug|Win32
+		{7C7805FC-C736-443E-B85D-8650EF10A749}.Release|x64.ActiveCfg = Release|x64
+		{7C7805FC-C736-443E-B85D-8650EF10A749}.Release|x64.Build.0 = Release|x64
+		{7C7805FC-C736-443E-B85D-8650EF10A749}.Release|x86.ActiveCfg = Release|Win32
+		{7C7805FC-C736-443E-B85D-8650EF10A749}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
