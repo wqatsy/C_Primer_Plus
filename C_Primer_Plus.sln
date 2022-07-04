@@ -69,6 +69,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 4.16 The varwid.c P
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 4.17 The skip2.c Program", "Listing 4.17 The skip2.c Program\Listing 4.17 The skip2.c Program.vcxproj", "{E135E4F8-604E-4D50-9FCD-D792384714B8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Listing 5.1 The shoes1.c Program", "Listing 5.1 The shoes1.c Program\Listing 5.1 The shoes1.c Program.vcxproj", "{C23F2888-CCCC-49FF-B6C0-2C8AA372949B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -341,6 +343,14 @@ Global
 		{E135E4F8-604E-4D50-9FCD-D792384714B8}.Release|x64.Build.0 = Release|x64
 		{E135E4F8-604E-4D50-9FCD-D792384714B8}.Release|x86.ActiveCfg = Release|Win32
 		{E135E4F8-604E-4D50-9FCD-D792384714B8}.Release|x86.Build.0 = Release|Win32
+		{C23F2888-CCCC-49FF-B6C0-2C8AA372949B}.Debug|x64.ActiveCfg = Debug|x64
+		{C23F2888-CCCC-49FF-B6C0-2C8AA372949B}.Debug|x64.Build.0 = Debug|x64
+		{C23F2888-CCCC-49FF-B6C0-2C8AA372949B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C23F2888-CCCC-49FF-B6C0-2C8AA372949B}.Debug|x86.Build.0 = Debug|Win32
+		{C23F2888-CCCC-49FF-B6C0-2C8AA372949B}.Release|x64.ActiveCfg = Release|x64
+		{C23F2888-CCCC-49FF-B6C0-2C8AA372949B}.Release|x64.Build.0 = Release|x64
+		{C23F2888-CCCC-49FF-B6C0-2C8AA372949B}.Release|x86.ActiveCfg = Release|Win32
+		{C23F2888-CCCC-49FF-B6C0-2C8AA372949B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
