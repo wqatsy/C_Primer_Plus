@@ -1,17 +1,17 @@
 #define _CRT_SECURE_NO_WARNINGS
 #pragma warning(disable:6031)
 
-// talkback.c -- nosy, informative program
+// talkback.c——演示与用户交互
 #include <stdio.h>
-#include <string.h> // for strlen() prototype
+#include <string.h> // 提供strlen()函数的原型
 
-#define DENSITY 62.4 // human density in lbs per cu ft
+#define DENSITY 62.4 // 人体密度（单位：磅/立方英尺）
 
 int main()
 {
     float weight, volume;
     int size, letters;
-    char name[40]; // name is an array of 40 chars
+    char name[40]; // name是一个可容纳40个字符的数组
 
     printf("Hi! What's your first name?\n");
     scanf("%s", name);
