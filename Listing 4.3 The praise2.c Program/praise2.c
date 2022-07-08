@@ -2,10 +2,10 @@
 #pragma warning(disable:6031)
 
 /* praise2.c */
- // try the %u or %lu specifiers if your implementation
+ // 如果编译器不识别%zd，尝试换成%u或%lu。
  // does not recognize the %zd specifier
 #include <stdio.h>
-#include <string.h> /* provides strlen() prototype */
+#include <string.h> // 提供strlen()函数的原型
 
 #define PRAISE "You are an extraordinary being."
 
