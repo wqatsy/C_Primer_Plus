@@ -1,9 +1,9 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-// defines.c -- uses defined constants from limit.h and float.
+// defines.c——使用limit.h和float头文件中定义的明示常量
 #include <stdio.h>
-#include <limits.h> // integer limits
-#include <float.h> // floating-point limits
+#include <limits.h> // 整型限制
+#include <float.h> // 浮点型限制
 
 int main(void)
 {
