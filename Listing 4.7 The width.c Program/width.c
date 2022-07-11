@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-/* width.c -- field widths */
+/* width.c¡ª¡ª×Ö¶Î¿í¶È */
 #include <stdio.h>
 
 #define PAGES 959
