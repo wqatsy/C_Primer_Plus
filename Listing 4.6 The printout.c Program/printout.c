@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-/* printout.c -- uses conversion specifiers */
+/* printout.c——使用转换说明 */
 #include <stdio.h>
 
 #define PI 3.141593
