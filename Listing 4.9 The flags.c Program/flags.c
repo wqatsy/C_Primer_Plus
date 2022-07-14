@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-/* flags.c -- illustrates some formatting flags */
+/* flags.c——演示一些格式标记 */
 #include <stdio.h>
 
 int main(void)

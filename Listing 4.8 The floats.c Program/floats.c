@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-// floats.c——一些浮点型修饰符的组合
+/* floats.c——一些浮点型修饰符的组合 */
 #include <stdio.h>
 
 int main(void)
