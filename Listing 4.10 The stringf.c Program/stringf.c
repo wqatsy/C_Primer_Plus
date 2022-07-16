@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-/* stringf.c -- string formatting */
+/* stringf.c¡ª¡ª×Ö·û´®¸ñÊ½ */
 #include <stdio.h>
 
 #define BLURB "Authentic imitation!"
