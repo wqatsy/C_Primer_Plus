@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-/* prntval.c -- finding printf()'s return value */
+/* prntval.c¡ª¡ªprintf()µÄ·µ»ØÖµ */
 #include <stdio.h>
 
 int main(void)
