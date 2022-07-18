@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-/* longstrg.c –– printing long strings */
+/* longstrg.c——打印较长的字符串 */
 #include <stdio.h>
 
 int main(void)
