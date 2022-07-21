@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #pragma warning(disable:6031)
 
-/* skiptwo.c -- skips over first two integers of input */
+/* skiptwo.c——跳过输入中的两个整数 */
 #include <stdio.h>
 
 int main(void)
