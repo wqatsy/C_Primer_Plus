@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #pragma warning(disable:6031)
 
-/* varwid.c -- uses variable-width output field */
+/* varwid.c——使用变宽输出字段 */
 #include <stdio.h>
 
 int main(void)
